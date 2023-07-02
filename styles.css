@@ -1,13 +1,14 @@
 /*  your css code here. If applicable */
 .player_one{
 	background-color:white;
-	padding:10px;
-	border-radius:30px;
+	padding:2px;
+	border-radius:10px;
 }
 .player_two{
 	background-color:white;
-	padding:10px;
-	border-radius:30px;
+	text-align:center;
+	padding:2px;
+	border-radius:10px;
 }
 body{
 	background-color:#cccccc;
@@ -16,7 +17,7 @@ li{
 	list-style-type:none;
 }
 a{
-	text-decoration-on-line:none;
+	text-decoration-line:none;
 }
 h1{
 	text-align:center;
