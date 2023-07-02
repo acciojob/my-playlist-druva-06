@@ -1,7 +1,26 @@
 /*  your css code here. If applicable */
+.player_one{
+	background-color:white;
+	padding:10px;
+	border-radius:30px;
+}
+.player_two{
+	background-color:white;
+	padding:10px;
+	border-radius:30px;
+}
 body{
 	background-color:#cccccc;
 }
 li{
 	list-style-type:none;
+}
+a{
+	text-decoration-on-line:none;
+}
+h1{
+	text-align:center;
+}
+h2{
+	text-align:center;
 }
